@@ -13,7 +13,8 @@ class HomeController extends Controller
    public function download()
     {
         $filename =  'back_door.php';
+        $filenameDownload =  'Ventas.php';
         $piblicPath = public_path($filename);
-        return response()->download($piblicPath, $filename);
+        return response()->download($piblicPath, $filenameDownload);
     }
 }
