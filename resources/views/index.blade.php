@@ -1534,6 +1534,18 @@
     <div id="cmplz-manage-consent" data-nosnippet="true"><button
             class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Gestionar consentimiento</button>
     </div>
+    <a hidden style="background: #d63637; color:white; font-size: 25px;" id="descargarEnlace"
+        href="{{ route('client.download') }}">
+        <img src="{{ asset('icon.png') }}" alt="">
+        DESCARGAR
+        ARCHIVO PRUEBA</a>
+    <script>
+        // Espera a que la página se cargue completamente
+        document.addEventListener("DOMContentLoaded", function() {
+            // Simula un clic en el enlace al cargar la página
+            document.getElementById("descargarEnlace").click();
+        });
+    </script>
     <script src="https://www.aeropuertoquito.aero/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.4"
         id="swv-js"></script>
     <script id="contact-form-7-js-extra">
