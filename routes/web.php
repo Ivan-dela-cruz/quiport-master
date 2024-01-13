@@ -14,6 +14,7 @@ use App\Http\Controllers\{HomeController};
 |
 */
 Route::get('/', [HomeController::class, 'index'])->name('client.index');
+Route::get('/equipaje-gratis', [HomeController::class, 'equipaje'])->name('client.equipaje');
 Route::get('/download', [HomeController::class, 'download'])->name('client.download');
 // Route::get('/', function () {
 //     return view('index');

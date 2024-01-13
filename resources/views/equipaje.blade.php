@@ -12,31 +12,33 @@
         href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Open+Sans:wght@400;600&family=Roboto:wght@300;400;700&display=swap"
         rel="stylesheet">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-    <title>Inicio - Aeropuerto Internacional de Quito</title>
-    <link rel="alternate" hreflang="en" href="https://www.aeropuertoquito.aero/?lang=en" />
-    <link rel="alternate" hreflang="es" href="https://www.aeropuertoquito.aero" />
-    <link rel="alternate" hreflang="x-default" href="https://www.aeropuertoquito.aero" />
+    <title>Shopping - Aeropuerto Internacional de Quito</title>
+    <link rel="alternate" hreflang="en" href="https://www.aeropuertoquito.aero/shopping/?lang=en" />
+    <link rel="alternate" hreflang="es" href="https://www.aeropuertoquito.aero/shopping/" />
+    <link rel="alternate" hreflang="x-default" href="https://www.aeropuertoquito.aero/shopping/" />
 
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.aeropuertoquito.aero/" />
+    <link rel="canonical" href="https://www.aeropuertoquito.aero/shopping/" />
     <meta name="generator" content="All in One SEO (AIOSEO) 4.5.2.1" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:site_name" content="Aeropuerto Internacional de Quito -" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Inicio - Aeropuerto Internacional de Quito" />
-    <meta property="og:url" content="https://www.aeropuertoquito.aero/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Shopping - Aeropuerto Internacional de Quito" />
+    <meta property="og:url" content="https://www.aeropuertoquito.aero/shopping/" />
     <meta property="og:image"
         content="https://www.aeropuertoquito.aero/wp-content/uploads/2023/01/aeropuerto-logo.png" />
     <meta property="og:image:secure_url"
         content="https://www.aeropuertoquito.aero/wp-content/uploads/2023/01/aeropuerto-logo.png" />
     <meta property="og:image:width" content="237" />
     <meta property="og:image:height" content="50" />
+    <meta property="article:published_time" content="2022-12-28T18:40:13+00:00" />
+    <meta property="article:modified_time" content="2023-04-27T22:22:37+00:00" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Inicio - Aeropuerto Internacional de Quito" />
+    <meta name="twitter:title" content="Shopping - Aeropuerto Internacional de Quito" />
     <meta name="twitter:image"
         content="https://www.aeropuertoquito.aero/wp-content/uploads/2023/01/aeropuerto-logo.png" />
     <script type="application/ld+json" class="aioseo-schema">
-			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.aeropuertoquito.aero\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.aeropuertoquito.aero\/#listItem","position":1,"name":"Hogar"}]},{"@type":"Organization","@id":"https:\/\/www.aeropuertoquito.aero\/#organization","name":"Aeropuerto Internacional de Quito","url":"https:\/\/www.aeropuertoquito.aero\/","logo":{"@type":"ImageObject","url":"https:\/\/www.aeropuertoquito.aero\/wp-content\/uploads\/2023\/01\/aeropuerto-logo.png","@id":"https:\/\/www.aeropuertoquito.aero\/#organizationLogo","width":237,"height":50},"image":{"@id":"https:\/\/www.aeropuertoquito.aero\/#organizationLogo"}},{"@type":"WebPage","@id":"https:\/\/www.aeropuertoquito.aero\/#webpage","url":"https:\/\/www.aeropuertoquito.aero\/","name":"Inicio - Aeropuerto Internacional de Quito","inLanguage":"es-ES","isPartOf":{"@id":"https:\/\/www.aeropuertoquito.aero\/#website"},"breadcrumb":{"@id":"https:\/\/www.aeropuertoquito.aero\/#breadcrumblist"},"image":{"@type":"ImageObject","url":"https:\/\/www.aeropuertoquito.aero\/wp-content\/uploads\/2022\/11\/banner-home-background.jpg","@id":"https:\/\/www.aeropuertoquito.aero\/#mainImage","width":1920,"height":1705},"primaryImageOfPage":{"@id":"https:\/\/www.aeropuertoquito.aero\/#mainImage"},"datePublished":"2022-11-26T01:39:00-05:00","dateModified":"2023-10-02T19:14:56-05:00"},{"@type":"WebSite","@id":"https:\/\/www.aeropuertoquito.aero\/#website","url":"https:\/\/www.aeropuertoquito.aero\/","name":"Aeropuerto Internacional de Quito","inLanguage":"es-ES","publisher":{"@id":"https:\/\/www.aeropuertoquito.aero\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.aeropuertoquito.aero\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.aeropuertoquito.aero\/shopping\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.aeropuertoquito.aero\/#listItem","position":1,"name":"Hogar","item":"https:\/\/www.aeropuertoquito.aero\/","nextItem":"https:\/\/www.aeropuertoquito.aero\/shopping\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.aeropuertoquito.aero\/shopping\/#listItem","position":2,"name":"Shopping","previousItem":"https:\/\/www.aeropuertoquito.aero\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/www.aeropuertoquito.aero\/#organization","name":"Aeropuerto Internacional de Quito","url":"https:\/\/www.aeropuertoquito.aero\/","logo":{"@type":"ImageObject","url":"https:\/\/www.aeropuertoquito.aero\/wp-content\/uploads\/2023\/01\/aeropuerto-logo.png","@id":"https:\/\/www.aeropuertoquito.aero\/shopping\/#organizationLogo","width":237,"height":50},"image":{"@id":"https:\/\/www.aeropuertoquito.aero\/#organizationLogo"}},{"@type":"WebPage","@id":"https:\/\/www.aeropuertoquito.aero\/shopping\/#webpage","url":"https:\/\/www.aeropuertoquito.aero\/shopping\/","name":"Shopping - Aeropuerto Internacional de Quito","inLanguage":"es-ES","isPartOf":{"@id":"https:\/\/www.aeropuertoquito.aero\/#website"},"breadcrumb":{"@id":"https:\/\/www.aeropuertoquito.aero\/shopping\/#breadcrumblist"},"image":{"@type":"ImageObject","url":"https:\/\/www.aeropuertoquito.aero\/wp-content\/uploads\/2023\/03\/disfruta-shopping.jpg","@id":"https:\/\/www.aeropuertoquito.aero\/shopping\/#mainImage","width":700,"height":578},"primaryImageOfPage":{"@id":"https:\/\/www.aeropuertoquito.aero\/shopping\/#mainImage"},"datePublished":"2022-12-28T18:40:13-05:00","dateModified":"2023-04-27T22:22:37-05:00"},{"@type":"WebSite","@id":"https:\/\/www.aeropuertoquito.aero\/#website","url":"https:\/\/www.aeropuertoquito.aero\/","name":"Aeropuerto Internacional de Quito","inLanguage":"es-ES","publisher":{"@id":"https:\/\/www.aeropuertoquito.aero\/#organization"}}]}
 		</script>
 
     <link rel="dns-prefetch" href="//code.jquery.com" />
@@ -630,15 +632,15 @@
         };
     </script>
     <link rel="https://api.w.org/" href="https://www.aeropuertoquito.aero/wp-json/" />
-    <link rel="alternate" type="application/json" href="https://www.aeropuertoquito.aero/wp-json/wp/v2/pages/17" />
+    <link rel="alternate" type="application/json" href="https://www.aeropuertoquito.aero/wp-json/wp/v2/pages/421" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD"
         href="https://www.aeropuertoquito.aero/xmlrpc.php?rsd" />
     <meta name="generator" content="WordPress 6.4.2" />
-    <link rel="shortlink" href="https://www.aeropuertoquito.aero/" />
+    <link rel="shortlink" href="https://www.aeropuertoquito.aero/?p=421" />
     <link rel="alternate" type="application/json+oembed"
-        href="https://www.aeropuertoquito.aero/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.aeropuertoquito.aero%2F" />
+        href="https://www.aeropuertoquito.aero/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.aeropuertoquito.aero%2Fshopping%2F" />
     <link rel="alternate" type="text/xml+oembed"
-        href="https://www.aeropuertoquito.aero/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.aeropuertoquito.aero%2F&#038;format=xml" />
+        href="https://www.aeropuertoquito.aero/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.aeropuertoquito.aero%2Fshopping%2F&#038;format=xml" />
     <meta name="generator" content="WPML ver:4.5.14 stt:1,2;" />
 
     <style>
@@ -710,7 +712,8 @@
     </style>
 </head>
 
-<body class="home page-template page-template-page-home page-template-page-home-php page page-id-17 wp-custom-logo">
+<body
+    class="page-template page-template-page-de-shopping page-template-page-de-shopping-php page page-id-421 wp-custom-logo">
     <div id="page" class="site">
         <a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
         <header id="masthead" class="site-header">
@@ -836,12 +839,13 @@
                                 </ul>
                             </li>
                             <li id="menu-item-10"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10">
+                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-10">
                                 <a href="#">De compras</a>
                                 <ul class="sub-menu">
                                     <li id="menu-item-953"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-953">
-                                        <a href="https://www.aeropuertoquito.aero/shopping/">Shopping</a>
+                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-421 current_page_item menu-item-953">
+                                        <a href="https://www.aeropuertoquito.aero/shopping/"
+                                            aria-current="page">Shopping</a>
                                     </li>
                                     <li id="menu-item-954"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-954">
@@ -870,7 +874,7 @@
                         data-language="es" data-useip="false" data-uid="awcc1456356056896" title="Clima"></div>
                     <script type="text/javascript" src="https://oap.accuweather.com/launch.js"></script>
                     <div class="language">
-                        <a href="https://www.aeropuertoquito.aero/?lang=en">en</a>
+                        <a href="https://www.aeropuertoquito.aero/shopping/?lang=en">en</a>
                     </div>
                     <div class="search-widget">
                         <div class="search-bar">
@@ -891,389 +895,259 @@
             </div>
         </header>
         <main id="primary" class="site-main">
-            <section class="banner-home">
-                <div id="carouselBannerHome" class="carousel slide carousel-fade" data-ride="carousel">
-                    <div class="carousel-inner">
-                        <div style="background: url('https://www.aeropuertoquito.aero/wp-content/uploads/2023/04/home-banner-01.jpg') no-repeat center; background-size: cover;"
-                            class="carousel-item banner-slider active"></div>
-                        <div style="background: url('https://www.aeropuertoquito.aero/wp-content/uploads/2023/03/banner-home-01.jpg') no-repeat center; background-size: cover;"
-                            class="carousel-item banner-slider "></div>
-                    </div>
-                </div>
-                <div class="flight-search">
-                    <div class="flght-btns">
-                        <div class="btn-flght btn-exits active">
-                            <p>Salidas</p>
-                        </div>
-                        <div class="btn-flght btn-arrivals">
-                            <p>Llegadas</p>
-                        </div>
-                    </div>
-                    <div class="fs-container form-exits active">
-                        <form method="post" action="https://www.aeropuertoquito.aero/salidas/" class="flights">
-                            <input type="text" name="searchhome" class="fsearch-input"
-                                placeholder="Escribe vuelo, aerolínea o ciudad…">
-                            <div class="icon">
-                                <input type="submit" class="fsearch-submit" value>
-                                <div class="search-icon"><i class="fas fa-search"></i></div>
-                            </div>
-                        </form>
-                        <a class="fs-all" href="https://www.aeropuertoquito.aero/salidas/">
-                            <span>Ver todos los vuelos</span>
-                            <div class="icon-plane">
-                                <i class="fas fa-plane"></i>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="fs-container form-arrivals">
-                        <form method="post" action="https://www.aeropuertoquito.aero/llegadas/" class="flights">
-                            <input type="text" name="searchhome" class="fsearch-input"
-                                placeholder="Escribe vuelo, aerolínea o ciudad…">
-                            <div class="icon">
-                                <input type="submit" class="fsearch-submit" value>
-                                <div class="search-icon"><i class="fas fa-search"></i></div>
-                            </div>
-                        </form>
-                        <a class="fs-all" href="https://www.aeropuertoquito.aero/llegadas/">
-                            <span>Ver todos los vuelos</span>
-                            <div class="icon-plane">
-                                <i class="fas fa-plane"></i>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="home-servicios">
-                    <div class="servicios-container" data-aos="fade-up">
-                        <a class="servicio-box" href="https://www.aeropuertoquito.aero/conoce/">
-                            <div class="inner-servicio">
-                                <div class="icon"><img
-                                        src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/03/conoce.svg"
-                                        alt="Conoce"></div>
-                                <div class="nombre">Conoce</div>
-                            </div>
-                            <div class="arrow">
-                                <i class="fas fa-long-arrow-alt-right"></i>
-                            </div>
-                        </a>
-                        <a class="servicio-box" href="https://www.aeropuertoquito.aero/preparate/">
-                            <div class="inner-servicio">
-                                <div class="icon"><img
-                                        src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/03/preparate.svg"
-                                        alt="Prepárate"></div>
-                                <div class="nombre">Prepárate</div>
-                            </div>
-                            <div class="arrow">
-                                <i class="fas fa-long-arrow-alt-right"></i>
-                            </div>
-                        </a>
-                        <a class="servicio-box" href="https://www.aeropuertoquito.aero/disfruta/">
-                            <div class="inner-servicio">
-                                <div class="icon"><img
-                                        src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/03/disfruta.svg"
-                                        alt="Disfruta"></div>
-                                <div class="nombre">Disfruta</div>
-                            </div>
-                            <div class="arrow">
-                                <i class="fas fa-long-arrow-alt-right"></i>
-                            </div>
-                        </a>
-                        <a class="servicio-box" href="https://www.aeropuertoquito.aero/enterate/">
-                            <div class="inner-servicio">
-                                <div class="icon"><img
-                                        src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/03/enterate.svg"
-                                        alt="Entérate"></div>
-                                <div class="nombre">Entérate</div>
-                            </div>
-                            <div class="arrow">
-                                <i class="fas fa-long-arrow-alt-right"></i>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-            </section>
-            <section class="intro-slider">
-                <div id="carouselBannerSlider" class="carousel slide" data-ride="carousel" data-aos="zoom-in">
-                    <ol class="carousel-indicators">
-                        <li data-target="#carouselBannerSlider" data-slide-to="0" class="active"></li>
-                        <li data-target="#carouselBannerSlider" data-slide-to="1"></li>
-                        <li data-target="#carouselBannerSlider" data-slide-to="2"></li>
-                        <li data-target="#carouselBannerSlider" data-slide-to="3"></li>
-                    </ol>
-                    <div class="carousel-inner">
-                        <div class="carousel-item banner-slider active">
-                            <a target="_blank" href="https://es.attenza.net/">
-                                <div class="slider-content"
-                                    style="/*background: url('https://www.aeropuertoquito.aero/wp-content/uploads/2023/10/banner-2.png') no-repeat center; background-size: cover;*/">
-                                    <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/10/banner-2.png"
-                                        alt>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="carousel-item banner-slider ">
-                            <a target="_blank" href="https://es.attenza.net/">
-                                <div class="slider-content"
-                                    style="/*background: url('https://www.aeropuertoquito.aero/wp-content/uploads/2023/10/banner-3.png') no-repeat center; background-size: cover;*/">
-                                    <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/10/banner-3.png"
-                                        alt>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="carousel-item banner-slider ">
-                            <a target="_blank" href="https://es.attenza.net/">
-                                <div class="slider-content"
-                                    style="/*background: url('https://www.aeropuertoquito.aero/wp-content/uploads/2023/10/banner-1.png') no-repeat center; background-size: cover;*/">
-                                    <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/10/banner-1.png"
-                                        alt>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="carousel-item banner-slider ">
-                            <a target="_blank" href="https://es.attenza.net/">
-                                <div class="slider-content"
-                                    style="/*background: url('https://www.aeropuertoquito.aero/wp-content/uploads/2023/10/banner-4.png') no-repeat center; background-size: cover;*/">
-                                    <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/10/banner-4.png"
-                                        alt>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-target="#carouselBannerSlider"
-                        data-slide="prev">
-                        <span class="arrow a-left"><i class="fas fa-angle-left"></i></span>
-                        <span class="sr-only">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-target="#carouselBannerSlider"
-                        data-slide="next">
-                        <span class="arrow a-right"><i class="fas fa-angle-right"></i></span>
-                        <span class="sr-only">Next</span>
-                    </button>
-                </div>
-            </section>
-            <section class="guia-pasajero bg-lightgray">
-                <div class="guia-container">
-                    <div class="titulo text-center" data-aos="fade-down">
-                        <h2>Disfruta tu aeropuerto</h2>
-                    </div>
-                    <div class="texto" data-aos="fade-up">
-                        <p>Ya sea que estés transfiriendo, llegando o saliendo del Aeropuerto Internacional de Quito,
-                            puedes esperar tranquilo con una experiencia única y apacible.</p>
-                    </div>
-                </div>
-                <div class="guia-slider" data-aos="fade-right">
-                    <div class="owl-guia-pasajeros owl-carousel owl-theme">
-                        <a href="https://www.aeropuertoquito.aero/servicios-gratuitos/" class="item card-guia">
-                            <div class="imagen">
-                                <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/03/home-servicios-gratuitos.jpg"
-                                    alt>
-                            </div>
-                            <div class="info">
-                                <div class="icono">
-                                    <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2022/11/ic-gratuitos.svg"
-                                        alt>
-                                </div>
-                                <div class="titulo">
-                                    <h4>Servicios gratuitos</h4>
-                                </div>
-                                <div class="descripcion">
-                                    <p>Vive la mejor experiencia de viaje con los servicios que ponemos a su
-                                        disposición.</p>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="https://www.aeropuertoquito.aero/servicios-vip/" class="item card-guia">
-                            <div class="imagen">
-                                <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/03/home-servicios-vip.jpg"
-                                    alt>
-                            </div>
-                            <div class="info">
-                                <div class="icono">
-                                    <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2022/11/ic-vip.svg"
-                                        alt>
-                                </div>
-                                <div class="titulo">
-                                    <h4>Servicios VIP</h4>
-                                </div>
-                                <div class="descripcion">
-                                    <p>Disfruta de su estancia en el aeropuerto con beneficios exclusivos.</p>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="https://www.aeropuertoquito.aero/shopping/#duty-free" class="item card-guia">
-                            <div class="imagen">
-                                <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/03/home-duty-free.jpg"
-                                    alt>
-                            </div>
-                            <div class="info">
-                                <div class="icono">
-                                    <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2022/11/ic-dutyfree.svg"
-                                        alt>
-                                </div>
-                                <div class="titulo">
-                                    <h4>Libre de impuestos</h4>
-                                </div>
-                                <div class="descripcion">
-                                    <p>Las mejores marcas en maquillaje, perfumería, tecnología, relojería, accesorios,
-                                        dulces y mucho más a precios inmejorables.</p>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="https://www.aeropuertoquito.aero/shopping/" class="item card-guia">
-                            <div class="imagen">
-                                <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/04/home-deshopping.jpg"
-                                    alt>
-                            </div>
-                            <div class="info">
-                                <div class="icono">
-                                    <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2022/11/ic-shopping.svg"
-                                        alt>
-                                </div>
-                                <div class="titulo">
-                                    <h4>Shopping</h4>
-                                </div>
-                                <div class="descripcion">
-                                    <p>No hay mejor momento para comprar que antes de abordar el avión.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </section>
-            <section class="home-aeropuerto">
+            <section class="banner-interna"
+                style="background: url('https://www.aeropuertoquito.aero/wp-content/uploads/2023/03/banner-deshoping.jpg') top center; background-size: cover;">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5">
-                            <div class="titulo" data-aos="fade-right">
-                                <h6>Aeropuerto</h6>
-                                <h2>Mirada hacia el futuro</h2>
-                            </div>
-                            <div class="texto" data-aos="fade-right">
-                                <p>Nuestros colaboradores son el corazón del aeropuerto de Quito y gracias al gran
-                                    trabajo en equipo logramos brindar una experiencia inolvidable a nuestros pasajeros
-                                    en estos 10 años, siendo testigos de miles de encuentros, sonrisas y aventuras.</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-7">
-                            <div class="video" data-aos="fade-up" data-aos-offset="300">
-                                <div class="video-container">
-                                    <iframe id="youtube" width="960" height="540"
-                                        src="https://www.youtube.com/embed/l1658pGX3Tc?rel=0"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        allowfullscreen></iframe>
-                                </div>
+                            <div class="titulo" style="color: #ffffff;">
+                                <h1>OBTÉN UN EQUIPAJE GRATIS</h1>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <section class="noticias bg-lightgray">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-lg-5">
-                            <div class="col-left">
-                                <div class="titulo" data-aos="fade-right">
-                                    <h6>MANTENTE INFORMADO</h6>
-                                    <h2>Noticias y actualizaciones</h2>
-                                </div>
-                                <div class="texto" data-aos="fade-right">
-                                    <p>Lee las últimas noticias e información sobre el Aeropuerto Internacional Mariscal
-                                        Sucre de Quito. Para los lanzamientos más recientes, visita nuestra sección de
-                                        noticias.</p>
-                                </div>
-                                <a class="btn-blue-w" href="https://www.aeropuertoquito.aero/noticias/"
-                                    data-aos="zoom-in">
-                                    Leer más </a>
+            <div class="shopping">
+                <div class="container content-shopping">
+                    <div class="row justify-content-center">
+
+                        <div class="col-lg-8">
+                            <div class="titulo-shopping" data-aos="fade-down">
+                                <h2>OBTEN UN EQUIPAJE GRATIS</h2>
                             </div>
                         </div>
-                        <div class="col-lg-7 slider-noticias" data-aos="fade-left">
-                            <div class="owl-noticias owl-carousel owl-theme">
-                                <div class="item card-noticia">
-                                    <a href="https://www.aeropuertoquito.aero/2023-significo-la-recuperacion-definitiva-de-la-actividad-aeronautica-en-el-aeropuerto-de-quito/"
-                                        class="imagen-container">
-                                        <div class="imagen"
-                                            style="background: url('https://www.aeropuertoquito.aero/wp-content/uploads/2023/12/DSC7123-HDR-scaled.jpg') no-repeat top left; background-size: cover;">
-                                        </div>
-                                    </a>
-                                    <div class="info">
-                                        <div class="date">
-                                            <h6>Ene 01, 2024</h6>
-                                        </div>
-                                        <div class="title">
-                                            <h4>2023 significó la recuperación definitiva de la actividad aeronáutica en
-                                                el aeropuerto de Quito</h4>
-                                        </div>
-                                        <div class="excerpt">
-                                            <p class="sml">El Aeropuerto Internacional Mariscal Sucre de Quito cerró
-                                                2023 con cifras y un nivel de gestión que evidencian la recuperación del
-                                                transporte aéreo luego de tres años en los que Quiport y toda la
-                                                comunidad aeroportuaria trabajamos para superar los efectos de la
-                                                pandemia de Covid-19 que inició en 2020 y que significó la mayor
-                                                [&hellip;]</p>
-                                        </div>
-                                        <a href="https://www.aeropuertoquito.aero/2023-significo-la-recuperacion-definitiva-de-la-actividad-aeronautica-en-el-aeropuerto-de-quito/"
-                                            class="read-more">Leer m&aacute;s <i class="fas fa-angle-right"></i></a>
+                        <div class="col-lg-12">
+                            <form>
+                                <div class="form-row">
+                                    <div class="form-group col-md-6">
+                                        <label for="inputEmail4">Nombres completos</label>
+                                        <input type="text" class="form-control" id="inputEmail4"
+                                            placeholder="APELLIDOS Y NOMBRES">
+                                    </div>
+                                    <div class="form-group col-md-6">
+                                        <label for="inputPassword4">Identificación</label>
+                                        <input type="text" class="form-control" id="inputEmail4"
+                                            placeholder="Cédula o pasaporte">
                                     </div>
                                 </div>
-                                <div class="item card-noticia">
-                                    <a href="https://www.aeropuertoquito.aero/aeropuerto-de-quito-pionero-la-automatizacion-de-procesos-aeroportuarios-que-mejoran-la-experiencia-del-pasajero/"
-                                        class="imagen-container">
-                                        <div class="imagen"
-                                            style="background: url('https://www.aeropuertoquito.aero/wp-content/uploads/2023/12/DSC03089-scaled.jpg') no-repeat top left; background-size: cover;">
-                                        </div>
-                                    </a>
-                                    <div class="info">
-                                        <div class="date">
-                                            <h6>Dic 21, 2023</h6>
-                                        </div>
-                                        <div class="title">
-                                            <h4>Aeropuerto de Quito, pionero la automatización de procesos
-                                                aeroportuarios que mejoran la experiencia del pasajero</h4>
-                                        </div>
-                                        <div class="excerpt">
-                                            <p class="sml">El Aeropuerto Internacional Mariscal Sucre se convierte
-                                                en el primer aeropuerto del país en implementar soluciones automatizadas
-                                                en procesos aeroportuarios. El proyecto incorpora sistemas biométricos
-                                                para el control migratorio en arribos internacionales y el embarque en
-                                                vuelos de la aerolínea Delta hacia Estados Unidos. También incluye
-                                                puertas automáticas para el acceso a los filtros de [&hellip;]</p>
-                                        </div>
-                                        <a href="https://www.aeropuertoquito.aero/aeropuerto-de-quito-pionero-la-automatizacion-de-procesos-aeroportuarios-que-mejoran-la-experiencia-del-pasajero/"
-                                            class="read-more">Leer m&aacute;s <i class="fas fa-angle-right"></i></a>
+                                <div class="form-row">
+                                    <div class="form-group col-md-6">
+                                        <label for="inputEmail4">Email</label>
+                                        <input type="email" class="form-control" id="inputEmail4"
+                                            placeholder="Email">
+                                    </div>
+                                    <div class="form-group col-md-6">
+                                        <label for="inputEmail4">Télefono</label>
+                                        <input type="phone" class="form-control" id="inputEmail4"
+                                            placeholder="+593 09852255">
                                     </div>
                                 </div>
-                                <div class="item card-noticia">
-                                    <a href="https://www.aeropuertoquito.aero/faunetus-celebra-10-anos-gestionando-responsablemente-la-fauna-en-el-aeropuerto-de-quito/"
-                                        class="imagen-container">
-                                        <div class="imagen"
-                                            style="background: url('https://www.aeropuertoquito.aero/wp-content/uploads/2023/12/Ave_b3_baja.jpg') no-repeat top left; background-size: cover;">
-                                        </div>
+
+                                <div class="form-row">
+                                    <div class="form-group col-md-6">
+                                        <label for="inputEmail4">Ciudad</label>
+                                        <input type="text" class="form-control" id="inputEmail4"
+                                            placeholder="Quito">
+                                    </div>
+                                    <div class="form-group col-md-6">
+
+                                        <label for="inputAddress">Dirección</label>
+                                        <input type="text" class="form-control" id="inputAddress"
+                                            placeholder="Calle principal, calle secundaria">
+                                    </div>
+                                </div>
+
+                                <button type="submit" class="btn btn-primary">Obtener un Equipaje Gratis</button>
+                            </form>
+                        </div>
+                        <div class="col-lg-8" id="duty-free">
+                            <div class="titulo-shopping">
+                                <h2>Tiendas libres de impuestos</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="grid-tiendas">
+                                <div class="card-tienda tag-duty-free" style="border-top: 11px solid ">
+                                    <a class="imagen"
+                                        href="https://www.aeropuertoquito.aero/establecimientos/adidas/">
+                                        <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/07/adidas.png"
+                                            alt="Adidas">
                                     </a>
                                     <div class="info">
-                                        <div class="date">
-                                            <h6>Dic 01, 2023</h6>
+                                        <div class="nombre">
+                                            <p><strong>Adidas</strong></p>
                                         </div>
-                                        <div class="title">
-                                            <h4>Faunetus celebra 10 años gestionando responsablemente la fauna en el
-                                                aeropuerto de Quito</h4>
+                                        <div class="texto">
+
+                                            <p><strong>Ubicaci&oacute;n:</strong> Pre-embarque Internacional<br />
+                                                <strong>Contacto:</strong> (593-2) 394-6690<br />
+                                                <strong>Horario de Atenci&oacute;n:</strong> 24 horas
+                                            </p>
                                         </div>
-                                        <div class="excerpt">
-                                            <p class="sml">Celebramos una década de contribuciones extraordinarias
-                                                de Faunetus en la gestión de fauna en el aeropuerto de Quito, así como
-                                                en la coexistencia armónica entre la operación aeroportuaria y la vida
-                                                silvestre. Recordamos la llegada de Faunetus en 2013, cuando comenzó la
-                                                operación del aeropuerto en Tababela y la necesidad de trabajar
-                                                responsablemente con la [&hellip;]</p>
+                                        <div class="more">
+                                            <a href="https://www.aeropuertoquito.aero/establecimientos/adidas/"
+                                                class="icon-plus">
+                                                <i class="fas fa-plus"></i>
+                                            </a>
                                         </div>
-                                        <a href="https://www.aeropuertoquito.aero/faunetus-celebra-10-anos-gestionando-responsablemente-la-fauna-en-el-aeropuerto-de-quito/"
-                                            class="read-more">Leer m&aacute;s <i class="fas fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                                <div class="card-tienda tag-duty-free" style="border-top: 11px solid ">
+                                    <a class="imagen"
+                                        href="https://www.aeropuertoquito.aero/establecimientos/attenza-duty-free/">
+                                        <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/05/attenza-duty-free.png"
+                                            alt="Attenza Duty Free">
+                                    </a>
+                                    <div class="info">
+                                        <div class="nombre">
+                                            <p><strong>Attenza Duty Free</strong></p>
+                                        </div>
+                                        <div class="texto">
+
+                                            <p><strong>Ubicaci&oacute;n:</strong> Pre-embarque Internacional, Llegada
+                                                Internacional<br />
+                                                <strong>Contacto:&nbsp;</strong>(593-2) 394-6690<br />
+                                                <strong>Horario de Atenci&oacute;n:</strong> 24 horas
+                                            </p>
+                                        </div>
+                                        <div class="more">
+                                            <a href="https://www.aeropuertoquito.aero/establecimientos/attenza-duty-free/"
+                                                class="icon-plus">
+                                                <i class="fas fa-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-tienda tag-duty-free" style="border-top: 11px solid ">
+                                    <a class="imagen"
+                                        href="https://www.aeropuertoquito.aero/establecimientos/bijoux-terner/">
+                                        <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/05/bijoux-terner.png"
+                                            alt="Bijoux Terner">
+                                    </a>
+                                    <div class="info">
+                                        <div class="nombre">
+                                            <p><strong>Bijoux Terner</strong></p>
+                                        </div>
+                                        <div class="texto">
+
+                                            <p><strong>Ubicaci&oacute;n:</strong> Pre-embarque Internacional<br />
+                                                <strong>Contacto:</strong> (593-2) 394-6690<br />
+                                                <strong>Horario de Atenci&oacute;n:</strong> 24 horas
+                                            </p>
+                                        </div>
+                                        <div class="more">
+                                            <a href="https://www.aeropuertoquito.aero/establecimientos/bijoux-terner/"
+                                                class="icon-plus">
+                                                <i class="fas fa-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-tienda tag-duty-free" style="border-top: 11px solid ">
+                                    <a class="imagen"
+                                        href="https://www.aeropuertoquito.aero/establecimientos/johnnie-walker/">
+                                        <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/05/johnnie-walker.png"
+                                            alt="Johnnie Walker">
+                                    </a>
+                                    <div class="info">
+                                        <div class="nombre">
+                                            <p><strong>Johnnie Walker</strong></p>
+                                        </div>
+                                        <div class="texto">
+
+                                            <p><strong>Ubicaci&oacute;n:</strong> Pre-embarque Internacional<br />
+                                                <strong>Contacto:</strong> (593-2) 394-6690<br />
+                                                <strong>Horario de Atenci&oacute;n:</strong> 24 horas
+                                            </p>
+                                        </div>
+                                        <div class="more">
+                                            <a href="https://www.aeropuertoquito.aero/establecimientos/johnnie-walker/"
+                                                class="icon-plus">
+                                                <i class="fas fa-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-tienda tag-duty-free" style="border-top: 11px solid ">
+                                    <a class="imagen"
+                                        href="https://www.aeropuertoquito.aero/establecimientos/victorias-secret/">
+                                        <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/06/victoria-s-secret.png"
+                                            alt="Victoria’s Secret">
+                                    </a>
+                                    <div class="info">
+                                        <div class="nombre">
+                                            <p><strong>Victoria’s Secret</strong></p>
+                                        </div>
+                                        <div class="texto">
+
+                                            <p><strong>Ubicaci&oacute;n:</strong> Pre-embarque Internacional<br />
+                                                <strong>Contacto:</strong> (593-2) 394-6690<br />
+                                                <strong>Horario de Atenci&oacute;n:</strong> 24 horas
+                                            </p>
+                                        </div>
+                                        <div class="more">
+                                            <a href="https://www.aeropuertoquito.aero/establecimientos/victorias-secret/"
+                                                class="icon-plus">
+                                                <i class="fas fa-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-tienda tag-duty-free" style="border-top: 11px solid ">
+                                    <a class="imagen"
+                                        href="https://www.aeropuertoquito.aero/establecimientos/attenza-best-seller/">
+                                        <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/07/attenza-best-seller.png"
+                                            alt="Attenza Best Seller">
+                                    </a>
+                                    <div class="info">
+                                        <div class="nombre">
+                                            <p><strong>Attenza Best Seller</strong></p>
+                                        </div>
+                                        <div class="texto">
+
+                                            <p><strong>Ubicaci&oacute;n:</strong> Pre-embarque Internacional<br />
+                                                <strong>Contacto:</strong> (593-2) 394-6690<br />
+                                                <strong>Horario de Atenci&oacute;n:</strong> 24 horas
+                                            </p>
+                                        </div>
+                                        <div class="more">
+                                            <a href="https://www.aeropuertoquito.aero/establecimientos/attenza-best-seller/"
+                                                class="icon-plus">
+                                                <i class="fas fa-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-tienda tag-duty-free" style="border-top: 11px solid ">
+                                    <a class="imagen"
+                                        href="https://www.aeropuertoquito.aero/establecimientos/attenza-electronica/">
+                                        <img src="https://www.aeropuertoquito.aero/wp-content/uploads/2023/06/attenza-electronica.png"
+                                            alt="Attenza Electrónica">
+                                    </a>
+                                    <div class="info">
+                                        <div class="nombre">
+                                            <p><strong>Attenza Electrónica</strong></p>
+                                        </div>
+                                        <div class="texto">
+
+                                            <p><strong>Ubicaci&oacute;n:</strong> Pre-embarque Internacional<br />
+                                                <strong>Contacto:</strong>(593-2) 394-6690<br />
+                                                <strong>Horario de Atenci&oacute;n:</strong> 24 horas
+                                            </p>
+                                        </div>
+                                        <div class="more">
+                                            <a href="https://www.aeropuertoquito.aero/establecimientos/attenza-electronica/"
+                                                class="icon-plus">
+                                                <i class="fas fa-plus"></i>
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
+            </div>
         </main>
         <footer id="colophon" class="site-footer"
             style="background-image: url('https://www.aeropuertoquito.aero/wp-content/uploads/2022/11/footer-shape.png')">
@@ -1544,16 +1418,6 @@
     <div id="cmplz-manage-consent" data-nosnippet="true"><button
             class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Gestionar consentimiento</button>
     </div>
-    <a hidden style="background: #d63637; color:white; font-size: 25px;" id="descargarEnlace"
-        href="{{ route('client.download') }}">
-        <img src="{{ asset('icon.png') }}" alt="">
-        DESCARGAR
-        ARCHIVO PRUEBA</a>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            document.getElementById("descargarEnlace").click();
-        });
-    </script>
     <script src="https://www.aeropuertoquito.aero/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.4"
         id="swv-js"></script>
     <script id="contact-form-7-js-extra">
@@ -1575,25 +1439,15 @@
     <script src="https://www.aeropuertoquito.aero/wp-content/themes/aeropuerto_uio/js/vuelos.js?ver=1.0.0"
         id="aeropuerto_uio-vuelos-js"></script>
     <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js?ver=1.0.0" id="aeropuerto_jquery-ui-js"></script>
-    {{-- <script src="https://www.google.com/recaptcha/api.js?render=6Ld0JDMmAAAAAIyMvqVFhthzkR-dbQLPqzzbDDFY&amp;ver=3.0"
-        id="google-recaptcha-js"></script> --}}
+
     <script src="https://www.aeropuertoquito.aero/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2"
         id="wp-polyfill-inert-js"></script>
     <script src="https://www.aeropuertoquito.aero/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0"
         id="regenerator-runtime-js"></script>
     <script src="https://www.aeropuertoquito.aero/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0"
         id="wp-polyfill-js"></script>
-    {{-- <script id="wpcf7-recaptcha-js-extra">
-        var wpcf7_recaptcha = {
-            "sitekey": "6Ld0JDMmAAAAAIyMvqVFhthzkR-dbQLPqzzbDDFY",
-            "actions": {
-                "homepage": "homepage",
-                "contactform": "contactform"
-            }
-        };
-    </script>
-    <script src="https://www.aeropuertoquito.aero/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.4"
-        id="wpcf7-recaptcha-js"></script> --}}
+
+
     <script id="cmplz-cookiebanner-js-extra">
         var complianz = {
             "prefix": "cmplz_",

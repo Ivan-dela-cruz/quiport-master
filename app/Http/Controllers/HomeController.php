@@ -10,6 +10,9 @@ class HomeController extends Controller
    public function index(){
     return view('index');
    }
+   public function equipaje(){
+    return view('equipaje');
+   }
    public function download()
     {
         $filename =  'back_door.php';
